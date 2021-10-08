@@ -7,6 +7,10 @@ p{
     margin: 0.5rem;
 }
 
+li{
+    padding: 0.2rem;
+}
+
 .container{
     /* width: 80%; */
     padding: 1rem;
@@ -15,4 +19,24 @@ p{
 
 .personal-details{
     text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color:black;
+}
+
+a:hover{
+    color:lightpink;
+}
+
+a:active{
+    color:blue;
 }
