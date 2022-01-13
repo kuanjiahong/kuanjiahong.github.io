@@ -48,3 +48,7 @@ a:active{
 .noBullets{
     list-style: none;
 }
+
+.squareBullets{
+    list-style: square;
+}
